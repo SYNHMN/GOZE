@@ -1,11 +1,10 @@
-GOZE
+### GOZE
 
 They say the songs of a Goze are sad, because they show the listener things their eyes cannot see.
 
-01 PIXIE 3:52
+1. PIXIE 3:52
 
-02 WHITE 5:50
-
+2. WHITE 5:50
 
 ## Preview
 

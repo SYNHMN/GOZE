@@ -10,4 +10,4 @@ They say the songs of a Goze are sad, because they show the listener things thei
 
 ## Preview
 
-![](https://raw.githubusercontent.com/SYNHMN/GOZE/main/preview/Preview-1.png?token=GHSAT0AAAAAAB7T4PIZ7ZA4TMWBHMXTWAMSZAFMAHA)
+![](https://raw.githubusercontent.com/SYNHMN/GOZE/main/preview/Preview-1.png)
